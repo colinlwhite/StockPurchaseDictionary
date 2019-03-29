@@ -1,0 +1,11 @@
+/Users/colinwhite/workspace/back-end/exercises/StockPurchaseDictionary/bin/Debug/netcoreapp2.2/StockPurchaseDictionary.deps.json
+/Users/colinwhite/workspace/back-end/exercises/StockPurchaseDictionary/bin/Debug/netcoreapp2.2/StockPurchaseDictionary.runtimeconfig.json
+/Users/colinwhite/workspace/back-end/exercises/StockPurchaseDictionary/bin/Debug/netcoreapp2.2/StockPurchaseDictionary.runtimeconfig.dev.json
+/Users/colinwhite/workspace/back-end/exercises/StockPurchaseDictionary/bin/Debug/netcoreapp2.2/StockPurchaseDictionary.dll
+/Users/colinwhite/workspace/back-end/exercises/StockPurchaseDictionary/bin/Debug/netcoreapp2.2/StockPurchaseDictionary.pdb
+/Users/colinwhite/workspace/back-end/exercises/StockPurchaseDictionary/obj/Debug/netcoreapp2.2/StockPurchaseDictionary.csprojAssemblyReference.cache
+/Users/colinwhite/workspace/back-end/exercises/StockPurchaseDictionary/obj/Debug/netcoreapp2.2/StockPurchaseDictionary.csproj.CoreCompileInputs.cache
+/Users/colinwhite/workspace/back-end/exercises/StockPurchaseDictionary/obj/Debug/netcoreapp2.2/StockPurchaseDictionary.AssemblyInfoInputs.cache
+/Users/colinwhite/workspace/back-end/exercises/StockPurchaseDictionary/obj/Debug/netcoreapp2.2/StockPurchaseDictionary.AssemblyInfo.cs
+/Users/colinwhite/workspace/back-end/exercises/StockPurchaseDictionary/obj/Debug/netcoreapp2.2/StockPurchaseDictionary.dll
+/Users/colinwhite/workspace/back-end/exercises/StockPurchaseDictionary/obj/Debug/netcoreapp2.2/StockPurchaseDictionary.pdb
